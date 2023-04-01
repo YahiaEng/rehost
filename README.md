@@ -85,7 +85,7 @@
 [license-shield]: https://img.shields.io/github/license/YahiaEng/rehost.svg?style=for-the-badge
 [license-url]: https://github.com/YahiaEng/rehost/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in//yahia-tarek-118716268
+[linkedin-url]: https://linkedin.com/in/yahia-tarek-118716268
 [product-screenshot]: https://res.cloudinary.com/rehost/image/upload/v1680310762/rehosthomepagePNG_w7o2sb.png
 [host-screenshot]: https://res.cloudinary.com/rehost/image/upload/v1680316300/rehosthost_toaztj.png
 [listings-screenshot]: https://res.cloudinary.com/rehost/image/upload/v1680316160/rehostlisting_l0qniy.png
